@@ -1,0 +1,70 @@
+# / is current directory
+- /tmp
+- /lost+found
+
+# Security reason
+- /.raiff_key
+- /.ssh/id_rsa
+- /.ssh/id_dsa
+- /.subversion/auth
+
+# WTF?
+- /widescreen
+- /texmf
+- /sandisk
+- /initrd
+# TODO: restore torrents
+- /lena-vaio/downloads
+
+- /psp
+- /torrents
+- /photos
+- /video
+- /.wine
+- /music.vkontakte
+- /Downloads
+- /downloads
+- /drive_c
+- /Pictures
+- /Dropbox
+
+- /.thumbnails
+- /.VirtualBox
+- /.cache
+- /.google
+- /gopro
+- /.mozilla/firefox/**/Cache
+- /.mozilla/firefox/**/thumbnails
+- /.opera/thumb*
+- /.opera/**cache*
+- /.ooo3/**cache*
+- /.kde4/share/apps/ktorrent/tor*
+- /.fpwine
+- /iso
+- /.local
+- /oots
+
+- /fontconfig
+
+- /kdenlive/thumbs
+
+- /.adobe/**Cache
+- /.config/libreoffice/**/cache
+- /.libreoffice/**/cache
+- /.nv/GLCache
+- /.kde4/**/amarok/**/cache
+- /.kde4/cache-*
+- /.java/**/cache
+- /.eclipse/**/cache
+
+- **/__pycache__/
+- *.swp
+- *-swp
+
+- *.mp4
+- *.mp3
+- *.mkv
+- *.avi
+
+
++ *
